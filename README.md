@@ -1,12 +1,7 @@
 # Test Project
 
 ## Installation
-Go to the folder which is path {projectPath}/{projectName}/src and run the following command for the vendor file. [Composer](https://getcomposer.org/download/) will fetch all packages for use this project.
-```bash
-composer install
-```
-
-The project using docker. So go to the folder which is path {projectPath}/{projectName}/src/docker and run the following command
+The project using docker. So go to the folder which is path {projectPath}/{projectName}/docker and run the following command
 ```bash
 docker-compose up --build -d
 ```
